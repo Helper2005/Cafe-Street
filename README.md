@@ -1,4 +1,4 @@
 # Open-Source 💻
-<img src="image/cover.png">
+<img src="image/Cover.png">
 
 ## Figma file
