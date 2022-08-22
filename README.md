@@ -20,6 +20,6 @@ Then make an Issue and tell me which part you want to Code.
 <hr>
 
 ### When your PR is accepted, you can make another PR for putting your name here.
-|Name|Reponsibility|How did it take you to make the seciton?|
+|Name|Reponsibility|duration|
 |-----|-----|-----|
 |forExemple|Navbar|30 Minutes|
