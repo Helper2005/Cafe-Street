@@ -24,6 +24,8 @@ Then make an Issue and tell me which part you want to Code.
 |Name|Reponsibility|duration|
 |-----|-----|-----|
 |forExemple|Navbar|30 Minutes|
+|Helper|Favicon|1 Minutes|
+||||
 
 
 <hr>
