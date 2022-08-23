@@ -15,6 +15,7 @@ Then make an Issue and tell me which part you want to Code.
 - If you make a PR, I'll ask you about your `Issue NO`, You must tell me, If not then It will not be accepted.
 - You must write the `CODE` in order, I've made that for you.
 - Don't bring any changes to the `global.css` File, Just use from it.
+- Don't add any other `Max Point` (Media Queries)
 
 
 <hr>
