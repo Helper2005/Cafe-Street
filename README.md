@@ -4,9 +4,9 @@
 ## Figma file
 I'll send you a copy of The figma file, So that you can work with that. Click [here](https://www.figma.com/community/file/1138256358581554095) <br>
 Then make an Issue and tell me which part you want to Code.
-
 > **Note** <br>
-> If you don't have Figma, You can download it from [here](https://www.figma.com/downloads/)
+> If you don't have Figma, You can download it from [here](https://www.figma.com/downloads/) <br>
+> BTW You can also see the file in the Browser.
 
 ## Roles
 - Just use `HTML`, `CSS`, `JavaScript`
